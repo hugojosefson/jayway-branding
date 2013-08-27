@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3116"
@@ -54,7 +55,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g3124" /><g
+     inkscape:current-layer="g3124" /><a xlink:href="http://www.jayway.com/"><g
      id="g3124"
      inkscape:groupmode="layer"
      inkscape:label="jayway_inverted_rgb"
@@ -116,4 +117,4 @@
          clip-path="url(#clipPath3184)"><path
            d="m 213.974,67.267 c 0.623,-1.66 1.66,-5.085 1.763,-5.501 0.104,0.416 1.037,3.841 1.867,5.501 l 11,23.662 c 0.625,1.452 1.249,2.595 3.012,2.595 l 8.926,0 c 1.764,0 2.697,-0.934 1.867,-2.595 l -19.615,-40.995 0,-24.387 c 0,-1.764 -0.621,-2.596 -2.49,-2.596 l -9.028,0 c -1.869,0 -2.595,0.832 -2.595,2.596 l 0,22.728 -19.719,42.654 c -0.727,1.556 0,2.595 1.764,2.595 l 10.277,0 c 1.764,0 2.49,-1.039 3.111,-2.595 l 9.86,-23.662"
            style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path3188" /></g></g></g></svg>
+           id="path3188" /></g></g></g></a></svg>
